@@ -14,6 +14,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/>
+  <img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-pwsmxosx.png" alt="cypress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/pydantic/pydantic-logo/main/pydantic.svg" alt="pydantic" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/sqlalchemy/sqlalchemy/main/doc/_static/sqlalchemy.svg" alt="sqlalchemy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
+
 </p>
 
 ---
